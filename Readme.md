@@ -32,3 +32,6 @@ $ sudo echo 'SystemAccount=true' >> /var/lib/AccountsService/users/pybo
 ## Contact
 python at didier-dubois.ch. [Homepage](http://didier-dubois.ch)
 
+
+# License
+See [Licence](LICENSE.md)
