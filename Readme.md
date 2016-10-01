@@ -9,5 +9,5 @@ This a  very simple web app template allowing you to start developping Python we
  * jQuery
 
 ## Contact
-python at didier-dubois.ch
+python at didier-dubois.ch. [Homepage](http://didier-dubois.ch)
 
