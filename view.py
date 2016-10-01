@@ -11,7 +11,6 @@ t_globals = dict(
 )
 render = web.template.render('templates/', globals=t_globals)
 
-
 def index():
     title = 'Simple Web application'
     text = "simple web application"
