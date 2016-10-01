@@ -9,9 +9,9 @@ This a  very simple web app template allowing you to start developping Python we
  * jQuery
 
 ## How to 
-You can test your application, by running the `./runserver.sh` application and develop locally. tHe beauty of Web.py is that you can edit your pages, python files and just reload the Web pag. The change is taken automatically. This allows for a fast developpment cycle.
+You can test your application, by running the `./runserver.sh` application and develop locally. The beauty of Web.py is that you can edit your pages, python files and just reload the Web pag. The change is taken automatically. This allows for a fast developpment cycle.
 
-In order to run your application permanetly, you can add a new user and launch the server at startup.
+In order to run your application permanently, you can add a new user and launch the server at startup.
 ```bash
 # ---- User creation and code checkout
 $ sudo useradd -m pybo
