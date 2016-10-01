@@ -24,7 +24,7 @@ $ crontab crontab
 $ echo root > .forward
 
 # ---- Removing your user from the login prompt (Ubuntu)
-$ sudo echo '[User] >   /var/lib/AccountsService/users/pybo
+$ sudo echo '[User]' >   /var/lib/AccountsService/users/pybo
 $ sudo echo 'SystemAccount=true' >> /var/lib/AccountsService/users/pybo
 
 ```
